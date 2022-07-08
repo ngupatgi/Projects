@@ -1,6 +1,9 @@
 
 Main Class is Game.java
 
+To run,pass the color you want to play as a commandline argument for example if iwant to play as black 
+java Game black
+
 It is a chess game am working on.
 
 It will be a game where two people can play or play with computer.
